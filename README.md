@@ -1,5 +1,5 @@
 ## 1. Стек
-- React 
+- vue3
 - Django
 - FastApi 
 - PostgreSQL
