@@ -1,6 +1,5 @@
 ## 1. Стек
 - React
-- Django
 - FastApi 
 - PostgreSQL
 
