@@ -19,7 +19,7 @@
 
 ## 5. Материалы
 - [гитхаб проекта](https://github.com/hoopengo/avito2.0)
-- [таски](https://trello.com/b/tLa3atSw/%D0%B0%D0%B2%D0%B8%D1%82%D0%BE-20)
+- [таски](https://github.com/hoopengo/oceanplace/issues)
 - [телеграм](https://t.me/+RmgPB8zcBGw1N2Iy)
 - [дискорд](https://discord.gg/P38ZgXGwJq)
 - [дизайн](https://www.figma.com/file/EhMj6JSdAPo24TrVvxiriq/oceanplace)
